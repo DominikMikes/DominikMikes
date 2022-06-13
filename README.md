@@ -1,4 +1,4 @@
-### Hi there <a href="https://dominikmikes.github.io/portfolio/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there <a href="https://dominikmikes.github.io/portfolio/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>
 ### I’m <a href="https://dominikmikes.github.io/portfolio/">@DominikMikes</a>
 
 - 💻 &nbsp;I’m currently working on MFE projects and frontend architecuter topics. :wink:
